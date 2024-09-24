@@ -2,7 +2,7 @@
 layout: post
 title: "旅行"
 date: 2024-09-24
-categories: jekyll update
+
 
 ---
 
